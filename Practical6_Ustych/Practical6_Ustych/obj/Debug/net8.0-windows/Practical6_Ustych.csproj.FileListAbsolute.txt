@@ -1,0 +1,16 @@
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.Form1.resources
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.csproj.GenerateResource.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.AssemblyInfoInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.AssemblyInfo.cs
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.csproj.CoreCompileInputs.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\bin\Debug\net8.0-windows\Practical6_Ustych.exe
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\bin\Debug\net8.0-windows\Practical6_Ustych.deps.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\bin\Debug\net8.0-windows\Practical6_Ustych.runtimeconfig.json
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\bin\Debug\net8.0-windows\Practical6_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\bin\Debug\net8.0-windows\Practical6_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\refint\Practical6_Ustych.dll
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.pdb
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\Practical6_Ustych.genruntimeconfig.cache
+C:\Users\Ustich\Desktop\студент\4 курс\Інструментальні засоби візуального програмування\6\Practical6_Ustych\Practical6_Ustych\obj\Debug\net8.0-windows\ref\Practical6_Ustych.dll
